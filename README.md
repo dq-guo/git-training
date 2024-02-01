@@ -15,4 +15,4 @@ Repository for training purposes
 ## Beijia
 
 ## Kiki
-# I love sushi!
+# Mein Lieblingsessen ist Sushi!
