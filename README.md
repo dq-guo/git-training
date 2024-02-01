@@ -15,4 +15,4 @@ Repository for training purposes
 ## Beijia
 
 ## Kiki
-#It is a sunny day! 
+# I love sushi!
